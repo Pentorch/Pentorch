@@ -20,8 +20,6 @@ I'm Willy Agustino Efendi ~ aka <a href="https://github.com/Pentorch">Willy</a>
 [![GitHub followers](https://img.shields.io/github/followers/Pentorch?label=Follow&style=social)](https://github.com/Pentorch/)
 ![Linkedin: Willy](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&link=)
 
-[Twitter Follow](https://img.shields.io/twitter/follow/fjr_notes?label=Follow)
-
 <br>
 <br>
 <br>
