@@ -17,7 +17,9 @@ I'm Willy Agustino Efendi ~ aka <a href="https://github.com/Pentorch">Willy</a>
 [![Linkedin: Willy](https://img.shields.io/badge/-Willy%20Agustino%20Efendi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willy-agustino-efendi/)
 [![Instagram: Willy](https://img.shields.io/badge/-Willy-DD2A7D?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/willy_agustino_efendi/)
 [![Whatsapp: Willy](https://img.shields.io/badge/+6288271770524-25D366?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/+6288271770524)
-[![GitHub followers](https://img.shields.io/github/followers/Pentorch?label=Follow&style=social)](https://github.com/Pentorch/)
+
+<!-- [![GitHub followers](https://img.shields.io/github/followers/Pentorch?label=Follow&style=social)](https://github.com/Pentorch/) -->
+
 ![Linkedin: Willy](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&link=)
 
 <br>
