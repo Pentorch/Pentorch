@@ -8,7 +8,7 @@ I'm Willy Agustino Efendi ~ aka <a href="https://github.com/Pentorch">Willy</a>
 
 <br>
 
-- 🔭 I’m currently working as Mobile App Developer
+- 🔭 I’m currently working as Frontend Developer in the designation for React.JS & Next.JS
 - 🌱 I’m currently learning Fullstack
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Be smart programmer
