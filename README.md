@@ -11,7 +11,7 @@ I'm Willy Agustino Efendi ~ aka <a href="https://github.com/Pentorch">Willy</a>
 - 🔭 I’m currently working as Frontend Developer in the designation for React.JS, Next.JS, Redux, Tailwind CSS & Unit Testing With Jest 
 - 🌱 I’m currently learning Full Stack Developer & Typescript
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Be smart programmer
+- 🥅 2024 Goals: Be smart programmer
 - ⚡ Fun fact: I love design and game
 
 <br>
